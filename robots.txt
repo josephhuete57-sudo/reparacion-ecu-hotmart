@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://josephhuete57-sudo.github.io/reparacion-ecu-hotmart/sitemap.xml
